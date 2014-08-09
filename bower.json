@@ -1,0 +1,18 @@
+{
+  "name": "shapes",
+  "version": "0.0.0",
+  "homepage": "https://github.com/sethjgore/shapes",
+  "authors": [
+    "sethjgore <sethjgore@gmail.com>"
+  ],
+  "description": "grmmr",
+  "main": ".",
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
